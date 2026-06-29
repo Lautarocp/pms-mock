@@ -2,7 +2,7 @@
 
 A full-featured property management frontend built with React 18, Vite, and Tailwind CSS. This is a **live demo** running entirely in the browser with no backend — all data lives in an in-memory mock store that resets on refresh.
 
-> **Try it live →** [pms-mock.vercel.app](https://pms-mock.vercel.app)
+> **Try it live →** [pms-mock-ruby.vercel.app](https://pms-mock-ruby.vercel.app)
 
 ---
 
